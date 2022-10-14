@@ -30,7 +30,7 @@
   + 게시물 조회수 측정
     + 일정 조회수 이상 -> hot 게시물
     
-### 자세한 설명은 ppt 
+**자세한 설명은 ppt 참고**
     
     
 ![image](https://user-images.githubusercontent.com/82144134/189532338-7c98dbf4-be98-4c6f-b1a1-1ef2fb915e4e.png)
